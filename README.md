@@ -1,6 +1,6 @@
 # RK3568 Acrylic Case & Design Resources
 
-> 为讯为 (Forlinx) RK3568 开发板设计的定制化亚克力保护外壳及配套设计资源。
+> 为讯为 (topeet) RK3568 开发板设计的定制化亚克力保护外壳及配套设计资源。
 
 ## 📖 项目简介 (About)
 
